@@ -51,14 +51,6 @@ export const intern_data = [
         links:[ "https://careers.tiktok.com/position/7268056291783526716/detail"]
     },
     {
-        company: "Intuit",
-        position: "Data Science Intern (Mailchimp)",
-        level: "Any",
-        batch: "Summer 2024",
-        status: "OPEN",
-        links:[ "https://jobs.intuit.com/search-jobs/Data%20Science%20Intern/27595/1?glat=33.79315948486328&glon=-84.3807601928711"]
-    },
-    {
         company: "Hewlett Packard Enterprise",
         position: "Data Science Intern",
         level: "Bachelors / Masters",
@@ -123,24 +115,8 @@ export const intern_data = [
         links:[ "https://jobs.us.pwc.com/job/birmingham/products-and-tech-data-science-intern-summer-2024/932/52191612288"]
     },
     {
-        company: "WebFX",
-        position: "Business Data Analyst Internship",
-        level: "Bachelors",
-        batch: "Summer 2024",
-        status: "OPEN",
-        links:[ "https://jobs.lever.co/webfx/cf2e63c1-94ba-4478-b1cd-acc54cadfc75"]
-    },
-    {
-        company: "Ekimetrics",
-        position: "6 months Internship in Strategy & Data Science",
-        level: "Bachelors / Masters",
-        batch: "Summer 2024",
-        status: "OPEN",
-        links:[ "https://jobs.lever.co/ekimetrics/d8f0b664-ad5b-4111-a1dc-a8143934bf24"]
-    },
-    {
         company: "General Motors",
-        position: "Digital Transformation – Data Analyst or Data Scientist",
+        position: "Data Analyst or Data Scientist",
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
@@ -148,7 +124,7 @@ export const intern_data = [
     },
     {
         company: "Red Ventures",
-        position: " Data Analyst Intern",
+        position: "Data Analyst Intern",
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
@@ -204,7 +180,7 @@ export const intern_data = [
     },
     {
         company: "Salesforce",
-        position: "Data Science - Data & Analytics",
+        position: "Data Science Intern",
         level: "Bachelors / Masters",
         batch: "Summer 2024",
         status: "OPEN",
