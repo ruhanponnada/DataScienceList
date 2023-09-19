@@ -220,7 +220,7 @@ export const intern_data = [
     },
     {
         company: "ServiceNow",
-        position: "Digital Technology – Data Informatics Analyst Intern",
+        position: "Data Informatics Analyst Intern",
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
