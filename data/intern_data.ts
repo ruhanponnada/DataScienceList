@@ -351,15 +351,7 @@ export const intern_data = [
         links: ["https://www.pgcareers.com/global/en/job/R000086647/Data-Scientist-Master%2527s-Degree-Internship"]
     },
     {
-        company: "HPE",
-        position: "Data Science Intern",
-        level: "Bachelors/Masters",
-        batch: "Summer 2024",
-        status: "OPEN",
-        links: ["https://careers.hpe.com/us/en/job/1160954/Data-Science-Intern"]
-    },
-    {
-        company: "Carrier ",
+        company: "Carrier",
         position: "Data Science & Analytics Intern",
         level: "Bachelors/Masters",
         batch: "Summer 2024",
@@ -405,6 +397,38 @@ export const intern_data = [
         batch: "Summer 2024",
         status: "OPEN",
         links: ["https://careers.deere.com/careers/job/137456548198-data-analytics-summer-intern-2024a-moline-illinois-united-states?domain=johndeere.com"]
+    },
+    {
+        company: "Sony Interactive Entertainment",
+        position: "Data Science Intern",
+        level: "Bachelors/Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        links: ["https://boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/4979014004"]
+    },
+    {
+        company: "Snowflake",
+        position: "Data Scientist Intern",
+        level: "Masters/PhD",
+        batch: "Summer 2024",
+        status: "OPEN",
+        links: ["https://careers.snowflake.com/us/en/job/6940957002/Data-Scientist-Intern"]
+    },
+    {
+        company: "Delta Air Lines",
+        position: "Data Scientist Intern",
+        level: "Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        links: ["https://delta.avature.net/careers/JobDetail/Graduate-Intern-Data-Scientist-Summer-2024/22174"]
+    },
+    {
+        company: "Ancestry",
+        position: "Data Sciene Intern",
+        level: "Any",
+        batch: "Summer 2024",
+        status: "OPEN",
+        links: ["https://careers.ancestry.com/jobs/ba88d11f-15b1-4b8c-bfdd-26fd990a325c"]
     },
     {
         company: "Uber",
@@ -534,12 +558,4 @@ export const intern_data = [
         status: "CLOSED",
         links: ["N/A"]
     },
-    {
-        company: "Capital One",
-        position: "Data Analyst Intern",
-        level: "Any",
-        batch: "Summer 2024",
-        status: "CLOSED",
-        links: ["N/A"]
-    }
 ]
