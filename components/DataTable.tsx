@@ -7,6 +7,7 @@ interface DataRow {
   level: string;
   batch: string;
   status: string;
+  company_type: String;
   links: Array<string>;
 }
 
@@ -17,6 +18,7 @@ interface DataTableProps {
 const DataTable: React.FC<DataTableProps> = ({ data }) => {
   const [statusFilter, setStatusFilter] = useState('');
   const [levelFilter, setLevelFilter] = useState('');
+  const [industryFilter, setIndustryFilter] = useState('');
   const [filteredData, setFilteredData] = useState(data);
   const [expandedRow, setExpandedRow] = useState(-1);
 
@@ -31,20 +33,18 @@ const DataTable: React.FC<DataTableProps> = ({ data }) => {
   };
 
   useEffect(() => {
-    if (statusFilter === '' && levelFilter === '') return setFilteredData(data);
+    if (statusFilter === '' && levelFilter === '' && industryFilter === '') return setFilteredData(data);
 
     setFilteredData(
       data.filter((row) => {
         const statusCondition = statusFilter === '' || row.status.toLowerCase() === statusFilter.toLowerCase();
         const levelCondition =
           levelFilter === '' || row.level.toLowerCase().includes(levelFilter.toLowerCase()) || row.level.toLowerCase() === 'any';
-        return statusCondition && levelCondition;
+        const industryCondition = industryFilter === '' || row.company_type.toLowerCase() === industryFilter.toLowerCase();
+        return statusCondition && levelCondition && industryCondition;
       })
     );
-  }, [statusFilter, levelFilter]);
-
-  const currentDate = new Date();
-  const formattedDate = currentDate.toLocaleDateString();
+  }, [statusFilter, levelFilter, industryFilter]);
 
   return (
     <div>
@@ -75,6 +75,20 @@ const DataTable: React.FC<DataTableProps> = ({ data }) => {
           <option value="bachelors">Bachelors</option>
           <option value="masters">Masters</option>
           <option value="phd">PhD</option>
+        </select>
+      </div>
+      <div className="flex flex-col items-center sm:flex-row">
+        <select
+          value={industryFilter}
+          onChange={(e) => {
+            setIndustryFilter(e.target.value);
+          }}
+          className="w-full sm:w-36 py-1 px-2 sm:px-3 rounded-full border border-blue-300 bg-inherit dark:from-inherit"
+        >
+          <option value="">Industry</option>
+          <option value="tech">Tech</option>
+          <option value="finance">Finance</option>
+          <option value="other">Other</option>
         </select>
       </div>
       </div>

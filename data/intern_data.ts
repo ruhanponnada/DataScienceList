@@ -5,6 +5,7 @@ export const intern_data = [
         level: "Masters / PhD",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links: ["https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2024-start-6866538002"]
     },
     {
@@ -13,6 +14,7 @@ export const intern_data = [
         level: "Masters / PhD",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links: ["https://amazon.jobs/en/jobs/2426866/2024-summer-data-science-internship-united-states-student-science-recruiting"]
     },
     {
@@ -21,6 +23,7 @@ export const intern_data = [
         level: "Bachelors / Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links: [
           "https://jobs.careers.microsoft.com/global/en/job/1602310/Data-Scientist%3A-Internship-Opportunities",
           "https://jobs.careers.microsoft.com/global/en/job/1602348/Applied-Scientist%3A-Internship-Opportunities"
@@ -32,6 +35,7 @@ export const intern_data = [
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://www.linkedin.com/jobs/view/3705751553/?alternateChannel=search&refId=qCjhOABus%2BemDQuV1Sth%2BQ%3D%3D&trackingId=gnoIFoAl9tUL9%2BovRCOa2w%3D%3D"]
     },
     {
@@ -40,6 +44,7 @@ export const intern_data = [
         level: "Masters / PhD",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://c3.ai/job-description/?gh_jid=6914147002"]
     },
     {
@@ -48,6 +53,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://careers.tiktok.com/position/7268056291783526716/detail"]
     },
     {
@@ -56,6 +62,7 @@ export const intern_data = [
         level: "Bachelors / Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://careers.hpe.com/us/en/job/1160954/Data-Science-Intern"]
     },
     {
@@ -64,6 +71,7 @@ export const intern_data = [
         level: "Bachelors / Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Finance",
         links:[ "https://mlp.wd5.myworkdayjobs.com/en-US/mlpcareers/job/New-York-NY---399-Park-Avenue/Dats-Science-Summer-Intern_REQ-18801"]
     },
     {
@@ -72,6 +80,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://careers.ibm.com/job/18930693/data-scientist-intern-2024-remote/?codes=WEB_SEARCH_NA&_gl=1*b9qwpq*_ga*MTk1NjE3NDM3MS4xNjk0ODk2MzUw*_ga_FYECCCS21D*MTY5NDg5NjM0OS4xLjEuMTY5NDg5NjQwOC4wLjAuMA.."]
     },
     {
@@ -80,6 +89,7 @@ export const intern_data = [
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Finance",
         links:[ "https://careers.mastercard.com/us/en/job/R-199403/Intern-Data-Scientist"]
     },
     {
@@ -88,6 +98,7 @@ export const intern_data = [
         level: "Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Finance",
         links:[ "https://jobs.discover.com/jobs/r302892024-data-and-analytics-graduate-internship-program/"]
     },
     {
@@ -96,6 +107,7 @@ export const intern_data = [
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links:[ "https://www.lockheedmartinjobs.com/job/bethesda/data-science-intern/694/54239930448"]
     },
     {
@@ -104,6 +116,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links:[ "https://boards.greenhouse.io/8451university/jobs/6864930002"]
     },
     {
@@ -112,6 +125,7 @@ export const intern_data = [
         level: "Bachelor",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links:[ "https://jobs.us.pwc.com/job/birmingham/products-and-tech-data-science-intern-summer-2024/932/52191612288"]
     },
     {
@@ -120,6 +134,7 @@ export const intern_data = [
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links:[ "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2024-Summer-Intern---Digital-Transformation---Data-Analyst-or-Data-Scientist_JR-202313389?utm_source=Simplify&ref=Simplify"]
     },
     {
@@ -128,6 +143,7 @@ export const intern_data = [
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links:[ "https://www.redventures.com/careers/apply/5209748?gh_jid=5209748&utm_source=Simplify&ref=Simplify"]
     },
     {
@@ -136,6 +152,7 @@ export const intern_data = [
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Finance",
         links:[ "https://www.wellsfargojobs.com/en/jobs/r-295402/2024-summer-internship-early-careers-analytics-data"]
     },
     {
@@ -144,6 +161,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-United-States/1405351?source=Cisco+Jobs+Career+Site&tags=CDC+Browse+all+jobs&utm_source=Simplify&ref=Simplify"]
     },
     {
@@ -152,6 +170,7 @@ export const intern_data = [
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://boards.greenhouse.io/sezzle/jobs/5703601003?"]
     },
     {
@@ -160,6 +179,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Finance",
         links:[ "https://boards.greenhouse.io/point72/jobs/6875674002?"]
     },
     {
@@ -168,6 +188,7 @@ export const intern_data = [
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Undergraduate-Internship---Data-Science---Bachelors-_JR0247229?"]
     },
     {
@@ -176,6 +197,7 @@ export const intern_data = [
         level: "Bachelors/Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://careers.chime.com/browse-jobs/6858442002/data-analytics-intern/"]
     },
     {
@@ -184,6 +206,7 @@ export const intern_data = [
         level: "Bachelors / Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Texas---Dallas/Data-Science-Intern--Data---Analytics--Summer-2024-_JR211411-1?"]
     },
     {
@@ -192,6 +215,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://boards.greenhouse.io/figma/jobs/4956894004"]
     },
     {
@@ -200,6 +224,7 @@ export const intern_data = [
         level: "Bachelors/Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links:[ "https://careers.honeywell.com/us/en/job/HONEUSREQ413283EXTERNALENUS/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2024-Intern-Co-Ops-US-Person-Requir?"]
     },
     {
@@ -208,6 +233,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links:[ "https://jobs.boeing.com/job/everett/boeing-summer-2024-internship-program-paid-information-technology-it-and-data-analytics-da-and-digi/185/53049783376"]
     },
     {
@@ -216,6 +242,7 @@ export const intern_data = [
         level: "Bachelors/Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links:[ "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Data-Science---Advanced-Analytics--Summer-2024-_JR26218?"]
     },
     {
@@ -224,6 +251,7 @@ export const intern_data = [
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://careers.servicenow.com/careers/jobs/743999927694573EXT?lang=en-us"]
     },
     {
@@ -232,6 +260,7 @@ export const intern_data = [
         level: "Bachelors/Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links:[ "https://careers.stryker.com/job-search-results/?keyword=Data&location=United%20States&country=US&radius=25"]
     },
     {
@@ -240,6 +269,7 @@ export const intern_data = [
         level: "Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links:[ "https://careers.generalmills.com/careers/jobs/24134?lang=en-us&previousLocale=en-US"]
     },
     {
@@ -248,6 +278,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://zello.com/careers/job?jid=84006244-1cdd-4626-92ef-6abf7ac3d807"]
     },
     {
@@ -256,6 +287,7 @@ export const intern_data = [
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links:[ "https://gilead.yello.co/job_boards/v42vD4vKxb3AkKvV93YsrQ"]
     },
     {
@@ -264,6 +296,7 @@ export const intern_data = [
         level: "Masters / PhD",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links:[ "https://gilead.yello.co/jobs/K0RoP10F1zNkIC3PUA_QCw?job_board_id=v42vD4vKxb3AkKvV93YsrQ"]
     },
     {
@@ -272,6 +305,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links:[ "https://careers.klaviyo.com/en/search-jobs/job/summer-2024-data-science-intern-5739561003/?gh_jid=5739561003"]
     },
     {
@@ -280,6 +314,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links: ["https://careers.walmart.com/us/jobs/WD1652790-2024-summer-intern-sr-data-scientist-sams-club",
         "https://careers.walmart.com/us/jobs/WD1652830-2024-summer-intern-data-science-sams-club",
         "https://careers.walmart.com/us/jobs/WD1652764-2024-summer-intern-decision-science-sams-club",
@@ -292,6 +327,7 @@ export const intern_data = [
         level: "Bachelors / Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links: ["https://www.vectra.ai/about/jobs?gh_jid=5330891"]
     },
     {
@@ -300,6 +336,7 @@ export const intern_data = [
         level: "Bachelors/Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links: ["https://careers.wbd.com/global/en/job/WAMEGLOBALR000072946EXTERNALENGLOBAL/Data-Science-Intern-Summer-2024?utm_source=linksedin&utm_medium=phenom-feeds"]
     },
     {
@@ -308,6 +345,7 @@ export const intern_data = [
         level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links: ["https://jobs.statefarm.com/main/jobs/33706?lang=en-us"]
     },
     {
@@ -316,6 +354,7 @@ export const intern_data = [
         level: "Any",
         batch: "Spring / Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links: ["https://www.tesla.com/careers/search/job/internship-data-science-data-analytics-energy-engineering-spring-summer-2024-206514", "https://www.tesla.com/careers/search/job/internship-data-scientist-battery-winter-spring-2024--206975"]
     },
     {
@@ -324,6 +363,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links: ["https://careers.thetradedesk.com/us/en/job/REQ-5808/2024-Data-Science-Intern-North-America"]
     },
     {
@@ -332,6 +372,7 @@ export const intern_data = [
         level: "Bachelors / Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links: ["https://boards.greenhouse.io/rsinternboard/jobs/6905936002?gh_jid=6905936002"]
     },
     {
@@ -340,6 +381,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links: ["https://careers.rivian.com/careers-home/jobs/12601?lang=en-us"]
     },
     {
@@ -348,6 +390,7 @@ export const intern_data = [
         level: "Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links: ["https://www.pgcareers.com/global/en/job/R000086647/Data-Scientist-Master%2527s-Degree-Internship"]
     },
     {
@@ -356,6 +399,7 @@ export const intern_data = [
         level: "Bachelors/Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links: ["https://jobs.carrier.com/job/-/-/29289/54395763248?"]
     },
     {
@@ -364,6 +408,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links: ["https://www.allstate.jobs/job/19015053/arity-data-science-internship-remote"]
     },
     {
@@ -372,6 +417,7 @@ export const intern_data = [
         level: "PhD",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Finance",
         links: ["https://www.capitalonecareers.com/job/mclean/current-phd-data-science-internship-summer-2024/31238/52341409008"]
     },
     {
@@ -380,6 +426,7 @@ export const intern_data = [
         level: "Masters / PhD",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links: ["https://careers.bcg.com/job/10020535/Data-Scientist-Internship-BCG-X"]
     },
     {
@@ -388,6 +435,7 @@ export const intern_data = [
         level: "Bachelors/Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links: ["https://paypal.eightfold.ai/careers?query=globaluniversityinterndataanalytics&pid=274895397057&domain=paypal.com&sort_by=relevance"]
     },
     {
@@ -396,6 +444,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links: ["https://careers.deere.com/careers/job/137456548198-data-analytics-summer-intern-2024a-moline-illinois-united-states?domain=johndeere.com"]
     },
     {
@@ -404,6 +453,7 @@ export const intern_data = [
         level: "Bachelors/Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links: ["https://boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/4979014004"]
     },
     {
@@ -412,6 +462,7 @@ export const intern_data = [
         level: "Masters/PhD",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Tech",
         links: ["https://careers.snowflake.com/us/en/job/6940957002/Data-Scientist-Intern"]
     },
     {
@@ -420,6 +471,7 @@ export const intern_data = [
         level: "Masters",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links: ["https://delta.avature.net/careers/JobDetail/Graduate-Intern-Data-Scientist-Summer-2024/22174"]
     },
     {
@@ -428,6 +480,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "OPEN",
+        company_type: "Other",
         links: ["https://careers.ancestry.com/jobs/ba88d11f-15b1-4b8c-bfdd-26fd990a325c"]
     },
     {
@@ -436,6 +489,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -444,6 +498,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -452,6 +507,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -460,6 +516,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -468,6 +525,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -476,6 +534,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -484,6 +543,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -492,6 +552,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -500,6 +561,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -508,6 +570,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -516,6 +579,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -524,6 +588,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -532,6 +597,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -540,6 +606,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "NOT OPEN YET",
+        company_type: "Tech",
         links: [""]
     },
     {
@@ -548,6 +615,7 @@ export const intern_data = [
         level: "N/A",
         batch: "Summer 2024",
         status: "CLOSED",
+        company_type: "Tech",
         links: ["N/A"]
     },
     {
@@ -556,6 +624,7 @@ export const intern_data = [
         level: "Any",
         batch: "Summer 2024",
         status: "CLOSED",
+        company_type: "Tech",
         links: ["N/A"]
     },
 ]
