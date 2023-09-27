@@ -5,6 +5,7 @@ import { useState } from 'react';
 import DataTable from '../components/DataTable';
 import {intern_data} from '../data/intern_data';
 import { new_grad_data } from '../data/new_grad_data';
+import { Header } from '../components/Header';
 
 const Home: NextPage = () => {
   const currentDate = new Date();
@@ -14,10 +15,12 @@ const Home: NextPage = () => {
 
   const formattedDate = `${month}/${day}/${year}`;
   return (
+    
     <main className="flex min-h-screen flex-col p-4 sm:p-8 lg:p-16 relative">
-  <div className="text-center mb-3 relative overflow-visible"> 
-      <h2 className="text-3xl sm:text-5xl font-extrabold">Data Science List</h2>
-     <ul className='py-6 text-center text-sm sm:text-base'>
+    <div className="text-center mb-3 relative overflow-visible">
+      <h2 className="text-3xl sm:text-5xl font-extrabold underline underline-offset-1">Data Science List</h2>
+      {/* <Header />  */}
+     <ul className='text-center text-sm sm:text-base'>
       <li className='py-2'>
       Data Science List is a curated list of data science <a href="#" className='underline decoration-solid inline text-indigo-300 decoration-indigo-500 hover:bg-indigo-700'>internships</a> and <a href='#new-grad' className='scroll-smooth underline decoration-solid inline text-teal-300 decoration-teal-500 hover:bg-teal-700'>new grad</a> roles
       </li>
@@ -27,14 +30,13 @@ const Home: NextPage = () => {
       <li className='py-2'>
         Any info need updating or wanna drop some feedback? Fill out this <a href="https://airtable.com/app6E5b3lbNl7JP79/shrdjmgmqYvIbfxZl" target='_blank' className='underline decoration-solid inline text-emerald-300 decoration-emerald-500 hover:bg-emerald-700'>form</a>!
       </li>
-      <li>
+      <li className='py-2'>
       <span className="inline-flex items-center rounded-md bg-indigo-100 text-indigo-800 dark:bg-indigo-900 px-2 py-1 text-xs font-medium dark:text-indigo-300 ring-1 ring-inset ring-indigo-700/10">
           Data last updated: {formattedDate}
       </span>
-        {/* Data last updated: {formattedDate} */}
       </li>
       </ul>
-      <div className='flex flex-col items-center'>
+      <div className='py-2 flex flex-col items-center'>
         <h2 className="mb-3 text-xl sm:text-2xl font-extrabold inline-block py-1 px-3 rounded-full border border-indigo-300 dark:from-inherit">
           Data Science - Internship
         </h2>

@@ -1,5 +1,23 @@
 export const new_grad_data = [
     {
+        company: "Oscar Health",
+        position: "Data Scientist 1, Risk Analytics",
+        level: "Bachelors / Masters",
+        batch: "2024",
+        status: "OPEN",
+        company_type: "Other",
+        links: ["https://www.hioscar.com/careers/5379881"]
+    },
+    {
+        company: "Pinterest",
+        position: "Data Scientist",
+        level: "Masters",
+        batch: "2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ["https://www.pinterestcareers.com/en/jobs/5383120/university-grad-data-science-masters-only/?gh_jid=5383120"]
+    },
+    {
         company: "Databricks",
         position: "Data Scientist",
         level: "Masters/PhD",
@@ -253,15 +271,6 @@ export const new_grad_data = [
     },
     {
         company: "Quora",
-        position: "Data Scientist",
-        level: "Any",
-        batch: "2024",
-        status: "NOT OPEN YET",
-        company_type: "Tech",
-        links: ["N/A"]
-    },
-    {
-        company: "Pinterest",
         position: "Data Scientist",
         level: "Any",
         batch: "2024",
