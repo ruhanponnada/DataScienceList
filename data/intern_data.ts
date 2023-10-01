@@ -1,5 +1,14 @@
 export const intern_data = [
     {
+        company: "Zoox",
+        position: "Data Scientist Intern",
+        level: "Any",
+        batch: "2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ["https://zoox.com/careers/job-opportunity/?job=9309308c-4af1-4696-a24b-c699d2c316b5", "https://zoox.com/careers/job-opportunity/?job=d95527e7-55cc-427c-b338-521d9e05c3c5", "https://zoox.com/careers/job-opportunity/?job=80868ecc-0c0d-47b4-b0d7-5966e3cbcbf9"]
+    },
+    {
         company: "Pinterest",
         position: "Data Science Intern",
         level: "Any",
