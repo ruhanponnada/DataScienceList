@@ -1,5 +1,23 @@
 export const intern_data = [
     {
+        company: "Nordstrom",
+        position: "Data Scientist Intern",
+        level: "Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Other",
+        links: ['https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_careers/details/Data-Science---Corporate-Internship--Master-s-Level-_R-591804?q=intern&jobFamilyGroup=c8fdb73683a5013c39dcb3613d1b72b5&jobFamilyGroup=c8fdb73683a5019ae5e7fc603d1b54b5']
+    },
+    {
+        company: "Starbucks",
+        position: "Data Analyst Intern",
+        level: "Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Other",
+        links: ['https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?job=1626048&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic']
+    },
+    {
         company: "Dropbox",
         position: "Data Scientist Intern",
         level: "Bachelors / Masters",
