@@ -18,24 +18,6 @@ export const new_grad_data = [
         links: ["https://www.pinterestcareers.com/en/jobs/5383120/university-grad-data-science-masters-only/?gh_jid=5383120"]
     },
     {
-        company: "Databricks",
-        position: "Data Scientist",
-        level: "Masters/PhD",
-        batch: "2024",
-        status: "CLOSED",
-        company_type: "Tech",
-        links: ["https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2024-start-6866554002?gh_jid=6866554002%3Futm_source%3DCarbosJobs"]
-    },
-    {
-        company: "Figma",
-        position: "Data Scientist",
-        level: "Any",
-        batch: "2024",
-        status: "CLOSED",
-        company_type: "Tech",
-        links: ["https://boards.greenhouse.io/figma/jobs/4945812004"]
-    },
-    {
         company: "Tiktok",
         position: "Data Scientist (Privacy and Data Protection Office)",
         level: "Any",
@@ -286,5 +268,23 @@ export const new_grad_data = [
         status: "NOT OPEN YET",
         company_type: "Tech",
         links: ["N/A"]
-    }
+    },
+    {
+        company: "Databricks",
+        position: "Data Scientist",
+        level: "Masters/PhD",
+        batch: "2024",
+        status: "CLOSED",
+        company_type: "Tech",
+        links: ["https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2024-start-6866554002?gh_jid=6866554002%3Futm_source%3DCarbosJobs"]
+    },
+    {
+        company: "Figma",
+        position: "Data Scientist",
+        level: "Any",
+        batch: "2024",
+        status: "CLOSED",
+        company_type: "Tech",
+        links: ["https://boards.greenhouse.io/figma/jobs/4945812004"]
+    },
 ]
