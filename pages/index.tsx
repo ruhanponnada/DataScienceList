@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import DataTable from '../components/DataTable';
 import {intern_data} from '../data/intern_data';
 import { new_grad_data } from '../data/new_grad_data';
@@ -25,7 +25,7 @@ const Home: NextPage = () => {
           description: 'Welcome to Data Science List, a curated list of data science internships and new grad roles.',
           images: [
             {
-              url: 'https://www.datasciencelist.com/api/og-image?name=Next.js&stage=adopt', // Replace with the URL of your OG image
+              url: '/api/screenshot', 
               width: 1200,
               height: 630,
               alt: 'Data Science List',
