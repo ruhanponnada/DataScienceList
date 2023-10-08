@@ -25,7 +25,7 @@ const Home: NextPage = () => {
           description: 'Welcome to Data Science List, a curated list of data science internships and new grad roles.',
           images: [
             {
-              url: '/data/logo.jpg', // Replace with the URL of your OG image
+              url: 'https://www.datasciencelist.com/api/og-image?name=Next.js&stage=adopt', // Replace with the URL of your OG image
               width: 1200,
               height: 630,
               alt: 'Data Science List',
