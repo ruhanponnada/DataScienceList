@@ -156,7 +156,7 @@ const DataTable: React.FC<DataTableProps> = ({ data }) => {
                         Links
                       </button>
                       {expandedRow === index && (
-                        <div className="origin-top-right absolute mt-2 w-32 rounded-md shadow-lg bg-gray-200 ring-1 ring-black ring-opacity-5">
+                        <div className="origin-top-right absolute mt-2 w-32 rounded-md shadow-lg bg-gray-200 ring-1 ring-black ring-opacity-5" style={{ zIndex: 9999 }}>
                           <div className="py-1" role="menu">
                             {row.links.map((link, linkIndex) => (
                               <a

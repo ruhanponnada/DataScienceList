@@ -22,7 +22,7 @@ export const new_grad_data = [
         position: "Data Scientist",
         level: "Masters/PhD",
         batch: "2024",
-        status: "OPEN",
+        status: "CLOSED",
         company_type: "Tech",
         links: ["https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2024-start-6866554002?gh_jid=6866554002%3Futm_source%3DCarbosJobs"]
     },
@@ -31,7 +31,7 @@ export const new_grad_data = [
         position: "Data Scientist",
         level: "Any",
         batch: "2024",
-        status: "OPEN",
+        status: "CLOSED",
         company_type: "Tech",
         links: ["https://boards.greenhouse.io/figma/jobs/4945812004"]
     },

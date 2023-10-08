@@ -1,9 +1,36 @@
 export const intern_data = [
     {
+        company: "Dropbox",
+        position: "Data Scientist Intern",
+        level: "Bachelors / Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ['https://jobs.dropbox.com/listing/5396438?gh_src=aonhf1']
+    },
+    {
+        company: "Asana",
+        position: "Data Scientist Intern",
+        level: "Any",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ['https://asana.com/jobs/apply/5175585', 'https://asana.com/jobs/apply/5175558']
+    },
+    {
+        company: "Notion",
+        position: "Data Scientist Intern",
+        level: "Bachelors / Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ["https://app.ripplematch.com/v2/public/job/787afef6/details?from_page=company_branded_page", "https://app.ripplematch.com/v2/public/job/041fe806?from_page=company_branded_page"]
+    },
+    {
         company: "Zoox",
         position: "Data Scientist Intern",
         level: "Any",
-        batch: "2024",
+        batch: "Summer 2024",
         status: "OPEN",
         company_type: "Tech",
         links: ["https://zoox.com/careers/job-opportunity/?job=9309308c-4af1-4696-a24b-c699d2c316b5", "https://zoox.com/careers/job-opportunity/?job=d95527e7-55cc-427c-b338-521d9e05c3c5", "https://zoox.com/careers/job-opportunity/?job=80868ecc-0c0d-47b4-b0d7-5966e3cbcbf9"]
@@ -680,14 +707,5 @@ export const intern_data = [
         status: "CLOSED",
         company_type: "Tech",
         links: ["N/A"]
-    },
-    {
-        company: "Asana",
-        position: "Data Science Internship",
-        level: "Any",
-        batch: "Summer 2024",
-        status: "CLOSED",
-        company_type: "Tech",
-        links: ["N/A"]
-    },
+    }
 ]

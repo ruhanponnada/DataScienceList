@@ -6,6 +6,7 @@ import DataTable from '../components/DataTable';
 import {intern_data} from '../data/intern_data';
 import { new_grad_data } from '../data/new_grad_data';
 import { Header } from '../components/Header';
+import { NextSeo } from 'next-seo';
 
 const Home: NextPage = () => {
   const currentDate = new Date();
@@ -15,8 +16,23 @@ const Home: NextPage = () => {
 
   const formattedDate = `${month}/${day}/${year}`;
   return (
-    
     <main className="flex min-h-screen flex-col p-4 sm:p-8 lg:p-16 relative">
+      <NextSeo
+        title="Data Science List - Home"
+        description="Welcome to Data Science List, a curated list of data science internships and new grad roles."
+        openGraph={{
+          title: 'Data Science List - Home',
+          description: 'Welcome to Data Science List, a curated list of data science internships and new grad roles.',
+          images: [
+            {
+              url: '/data/logo.jpg', // Replace with the URL of your OG image
+              width: 1200,
+              height: 630,
+              alt: 'Data Science List',
+            },
+          ],
+        }}
+      />
     <div className="text-center mb-3 relative overflow-visible">
       <h2 className="text-3xl sm:text-5xl font-extrabold underline underline-offset-1">Data Science List</h2>
       {/* <Header />  */}
