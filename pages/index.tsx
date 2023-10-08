@@ -17,22 +17,23 @@ const Home: NextPage = () => {
   const formattedDate = `${month}/${day}/${year}`;
   return (
     <main className="flex min-h-screen flex-col p-4 sm:p-8 lg:p-16 relative">
-      <NextSeo
-        title="Data Science List - Home"
-        description="Welcome to Data Science List, a curated list of data science internships and new grad roles."
-        openGraph={{
-          title: 'Data Science List - Home',
-          description: 'Welcome to Data Science List, a curated list of data science internships and new grad roles.',
-          images: [
-            {
-              url: '/api/screenshot', 
-              width: 1200,
-              height: 630,
-              alt: 'Data Science List',
-            },
-          ],
-        }}
-      />
+      <Head>
+        <title>Data Science List - Home</title>
+        <meta name="title" content="Data Science List - Home"/>
+        <meta name="description" content="Welcome to Data Science List, a curated list of data science internships and new grad roles."/>
+        <meta name="og:image" content="https://i.imgur.com/kUg7odI.png"/>
+        <meta name="og:image:type" content="image/png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="600" />
+        <meta name="og:type" content="website" />
+        <meta name="og:url" content="https://www.datasciencelist.com/" />
+        <meta name="og:title" content="Data Science List - Home" />
+        <meta name="og:description" content="Welcome to Data Science List, a curated list of data science internships and new grad roles." />
+        <meta name="og:image" content="https://i.imgur.com/kUg7odI.png" /> 
+          <meta name="og:image:type" content="image/png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="600" />
+      </Head>
     <div className="text-center mb-3 relative overflow-visible">
       <h2 className="text-3xl sm:text-5xl font-extrabold underline underline-offset-1">Data Science List</h2>
       {/* <Header />  */}
