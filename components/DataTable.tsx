@@ -24,10 +24,8 @@ const DataTable: React.FC<DataTableProps> = ({ data }) => {
 
   const toggleDropdown = (index: any) => {
     if (expandedRow === index) {
-      // Clicked on an already expanded row, so collapse it
       setExpandedRow(-1);
     } else {
-      // Clicked on a row, so expand it
       setExpandedRow(index);
     }
   };

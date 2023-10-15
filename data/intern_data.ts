@@ -1,5 +1,14 @@
 export const intern_data = [
     {
+        company: "Lyft",
+        position: "Data Science Intern",
+        level: "Masters / PhD",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ["https://app.careerpuck.com/job-board/lyft/job/6967994002?gh_jid=6967994002" , "https://app.careerpuck.com/job-board/lyft/job/6971506002?gh_jid=6971506002" , "https://app.careerpuck.com/job-board/lyft/job/6971509002?gh_jid=6971509002"]
+    },
+    {
         company: "Nordstrom",
         position: "Data Scientist Intern",
         level: "Masters",
@@ -602,15 +611,6 @@ export const intern_data = [
     },
     {
         company: "Uber",
-        position: "Data Science Intern",
-        level: "N/A",
-        batch: "Summer 2024",
-        status: "NOT OPEN YET",
-        company_type: "Tech",
-        links: [""]
-    },
-    {
-        company: "Lyft",
         position: "Data Science Intern",
         level: "N/A",
         batch: "Summer 2024",

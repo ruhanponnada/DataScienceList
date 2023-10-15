@@ -7,12 +7,12 @@ export const Header: React.FC = () => {
         <header className="bg-inherit py-2 navbar-center">
           <div className="flex justify-center">
             <div className="px-3">
-              <Link href="/about" className="underline underline-offset-2 btn btn-ghost normal-case text-xl">
+              <Link href="/" className="underline underline-offset-2 btn btn-ghost normal-case text-xl">
                 The List
               </Link>
             </div>
             <div className="px-3">
-              <Link href="/about" className="underline underline-offset-2 btn btn-ghost normal-case text-xl">
+              <Link href="/resources" className="underline underline-offset-2 btn btn-ghost normal-case text-xl">
                 Resources
               </Link>
             </div>

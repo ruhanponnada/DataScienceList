@@ -36,7 +36,7 @@ const Home: NextPage = () => {
       </Head>
     <div className="text-center mb-3 relative overflow-visible">
       <h2 className="text-3xl sm:text-5xl font-extrabold underline underline-offset-1">Data Science List</h2>
-      {/* <Header />  */}
+      <Header /> 
      <ul className='text-center text-sm sm:text-base'>
       <li className='py-2'>
       Data Science List is a curated list of data science <a href="#" className='underline decoration-solid inline text-indigo-300 decoration-indigo-500 hover:bg-indigo-700'>internships</a> and <a href='#new-grad' className='scroll-smooth underline decoration-solid inline text-teal-300 decoration-teal-500 hover:bg-teal-700'>new grad</a> roles
