@@ -7,6 +7,7 @@ import {intern_data} from '../data/intern_data';
 import { new_grad_data } from '../data/new_grad_data';
 import { Header } from '../components/Header';
 import { NextSeo } from 'next-seo';
+import Script from 'next/script';
 
 const Home: NextPage = () => {
   const currentDate = new Date();
@@ -33,6 +34,16 @@ const Home: NextPage = () => {
           <meta name="og:image:type" content="image/png" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="600" />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-8MN591VSC0" />
+        <Script id="google-analytics">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+ 
+          gtag('config', 'G-8MN591VSC0');
+        `}
+        </Script>
       </Head>
     <div className="text-center mb-3 relative overflow-visible">
       <h2 className="text-3xl sm:text-5xl font-extrabold underline underline-offset-1">Data Science List</h2>

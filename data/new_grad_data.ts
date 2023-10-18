@@ -27,33 +27,6 @@ export const new_grad_data = [
         links: ["https://careers.tiktok.com/position/7265036139185752381/detail"]
     },
     {
-        company: "Adobe",
-        position: "Data Scientist",
-        level: "Any",
-        batch: "2024",
-        status: "OPEN",
-        company_type: "Tech",
-        links: ["https://careers.adobe.com/us/en/job/R139138/2024-University-Graduate-Data-Scientist"]
-    },
-    {
-        company: "IBM",
-        position: "Data Scientist",
-        level: "Any",
-        batch: "2024",
-        status: "OPEN",
-        company_type: "Tech",
-        links: ["https://careers.ibm.com/job/18906659/data-scientist-entry-level-2024-remote/?codes=WEB_SEARCH_NA&_gl=1*rp8gsl*_ga*MTk1NjE3NDM3MS4xNjk0ODk2MzUw*_ga_FYECCCS21D*MTY5NDk4NzI3MS4yLjEuMTY5NDk4NzM1My4wLjAuMA.."]
-    },
-    {
-        company: "Caterpillar",
-        position: "Data Scientist",
-        level: "Any",
-        batch: "2024",
-        status: "OPEN",
-        company_type: "Other",
-        links: ["https://careers.caterpillar.com/en/jobs/job/r0000212221-2024-data-science-recent-grad-positions-cat-digital/"]
-    },
-    {
         company: "Wells Fargo",
         position: "Analytics & Data Early Career Development Program",
         level: "Bachelors",
@@ -70,15 +43,6 @@ export const new_grad_data = [
         status: "OPEN",
         company_type: "Tech",
         links: ["https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Full-Time-United-States/1405382?"]
-    },
-    {
-        company: "HPE",
-        position: "Data Scientist",
-        level: "Bachelors/Masters",
-        batch: "2024",
-        status: "OPEN",
-        company_type: "Tech",
-        links: ["https://careers.hpe.com/us/en/job/1160953/Data-Science-Graduate"]
     },
     {
         company: "Intel",
@@ -124,33 +88,6 @@ export const new_grad_data = [
         status: "OPEN",
         company_type: "Tech",
         links: ["https://www.tesla.com/careers/search/job/data-scientist-reliability-engineering-197272"]
-    },
-    {
-        company: "Honeywell",
-        position: "Data Scientist ",
-        level: "Bachelors/Masters",
-        batch: "2024",
-        status: "OPEN",
-        company_type: "Other",
-        links: ["https://careers.honeywell.com/us/en/job/HONEUSREQ413265EXTERNALENUS/Information-Systems-IT-Cyber-Engineer-Data-Science-Recent-Grad-Full-Time?utm_source=indeed&utm_medium=phenom-feeds&source=IND"]
-    },
-    {
-        company: "Cigna",
-        position: "Analytics Leadership Development Program",
-        level: "Masters",
-        batch: "2024",
-        status: "OPEN",
-        company_type: "Other",
-        links: ["https://jobs.thecignagroup.com/us/en/job/23015281/Analytics-Leadership-Development-Program-ALDP-Full-time-Start-Date-July-15-2024"]
-    },
-    {
-        company: "Discover",
-        position: "Data Science Analyst",
-        level: "Bachelors",
-        batch: "2024",
-        status: "OPEN",
-        company_type: "Finance",
-        links: ["https://jobs.discover.com/jobs/r303052024-aarc-data-science-analyst/"]
     },
     {
         company: "Duolingo",
@@ -276,7 +213,7 @@ export const new_grad_data = [
         batch: "2024",
         status: "CLOSED",
         company_type: "Tech",
-        links: ["https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2024-start-6866554002?gh_jid=6866554002%3Futm_source%3DCarbosJobs"]
+        links: [""]
     },
     {
         company: "Figma",
@@ -285,6 +222,69 @@ export const new_grad_data = [
         batch: "2024",
         status: "CLOSED",
         company_type: "Tech",
-        links: ["https://boards.greenhouse.io/figma/jobs/4945812004"]
+        links: [""]
+    },
+    {
+        company: "Honeywell",
+        position: "Data Scientist ",
+        level: "Bachelors/Masters",
+        batch: "2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links: [""]
+    },
+    {
+        company: "Cigna",
+        position: "Analytics Leadership Development Program",
+        level: "Masters",
+        batch: "2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links: [""]
+    },
+    {
+        company: "Discover",
+        position: "Data Science Analyst",
+        level: "Bachelors",
+        batch: "2024",
+        status: "CLOSED",
+        company_type: "Finance",
+        links: [""]
+    },
+    {
+        company: "HPE",
+        position: "Data Scientist",
+        level: "Bachelors/Masters",
+        batch: "2024",
+        status: "CLOSED",
+        company_type: "Tech",
+        links: [""]
+    },
+    {
+        company: "Caterpillar",
+        position: "Data Scientist",
+        level: "Any",
+        batch: "2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links: [""]
+    },
+    {
+        company: "Adobe",
+        position: "Data Scientist",
+        level: "Any",
+        batch: "2024",
+        status: "CLOSED",
+        company_type: "Tech",
+        links: [""]
+    },
+    {
+        company: "IBM",
+        position: "Data Scientist",
+        level: "Any",
+        batch: "2024",
+        status: "CLOSED",
+        company_type: "Tech",
+        links: [""]
     },
 ]

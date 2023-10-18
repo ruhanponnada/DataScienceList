@@ -10,19 +10,20 @@ const Resources: NextPage = () => {
         <Header />
         <h2 className="py-5 text-2xl sm:text-5xl font-extrabold">Guide for Data Science Interns & New Grads</h2>
         <p className='text-left'>
-        Data Science roles vary company to company, so the interview processes can be all over the place. But here's the deal: when you're applying for a job, you can usually take a good guess about what you're in for just by reading the job posting. Here's how.
+        Data Science roles can vary widely depending on the company, but you can often predict the nature of the interview from the job posting itself. 
         </p>
         <p className='text-left py-2'>
-        If the posting talks about stuff like dashboarding, SQL, experiments, and maybe some machine learning, it's likely a product-focused Data Science gig. They'll want you to be pretty sharp with SQL, coding, and stats, but don't stress too much about the high-level machine learning stuff.
+        Here's a brief guide:
         </p>
+        <ul className="list-disc px-10">
+          <li className='text-left py-2'><span className='inline font-bold text-indigo-500'>Product-focused Data Science Roles:</span> If you spot keywords like "dashboarding", "SQL", "experiments", and mentions of basic machine learning in the job description, you're likely looking at a product-focused role. Interviewers for these positions usually expect candidates to demonstrate solid skills in SQL and a good grasp of statistics, while machine learning knowledge can be at a foundational level.
+          </li>
+          <li className='text-left py-2'>
+          <span className='inline font-bold text-indigo-500'>ML-Heavy Data Science Roles:</span> Generally found in startups or mid-sized companies, these roles prioritize deeper understanding of machine learning theories. The job descriptions for these positions often list specific libraries (e.g., sklearn, spacy) and advanced modeling techniques (like clustering, decision trees, etc.) as preferred experiences.
+          </li>
+        </ul>
         <p className='text-left py-2'>
-        On the flip side, there are more "ML-heavy" Data Science jobs, often in startups or mid-sized companies. These interviews dive deeper into machine learning theory. The job posting might name-drop libraries like sklearn, spacy, and skills in things like clustering and decision trees.
-        </p>
-        <p className='text-left py-2'>
-        Now, these tips mostly apply to Data Science roles in Tech and Finance. If you're looking for advice on becoming a research or applied scientist, then this won't apply because those roles are specific. Speaking of advice, a lot of us, including me, do some quick prep before interviews. But honestly, there are so many resources out there that it's easy to get overwhelmed.
-        </p>
-        <p className='text-left py-2'>
-        Just so you know, this guide won't teach you all of Data Science from the ground up. We assume you've got some background knowledge. This page is just a handy guide for those short-term prep sessions. Hope it helps!
+        We recognize that many candidates are looking for short-term preparation without being overwhelmed by excessive resources. This isn’t a comprehensive deep-dive into data science fundamentals. Instead, the  focus here is on immediate preparation.
         </p>
         <div className="text-left border-l-4 border-indigo-500">
           <h3 className="py-5 text-md sm:text-xl font-extrabold px-2">Coding</h3>

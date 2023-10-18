@@ -1,5 +1,14 @@
 export const intern_data = [
     {
+        company: "Atlassian",
+        position: "Data Science Intern",
+        level: "Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ['https://www.atlassian.com/company/careers/details/10594']
+    },
+    {
         company: "Lyft",
         position: "Data Science Intern",
         level: "Masters / PhD",
@@ -16,15 +25,6 @@ export const intern_data = [
         status: "OPEN",
         company_type: "Other",
         links: ['https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_careers/details/Data-Science---Corporate-Internship--Master-s-Level-_R-591804?q=intern&jobFamilyGroup=c8fdb73683a5013c39dcb3613d1b72b5&jobFamilyGroup=c8fdb73683a5019ae5e7fc603d1b54b5']
-    },
-    {
-        company: "Starbucks",
-        position: "Data Analyst Intern",
-        level: "Masters",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Other",
-        links: ['https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?job=1626048&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic']
     },
     {
         company: "Dropbox",
@@ -108,15 +108,6 @@ export const intern_data = [
         links: ["https://ea.gr8people.com/jobs/179861/data-scientist-intern-bachelors?sid=4"]
     },
     {
-        company: 'Yum! Brands',
-        position: "Data Science Intern",
-        level: "Any",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Other",
-        links: ["https://jobs.yum.com/jobs/general/plano-tx-united-states/data-scientist-intern/2772?#/"]
-    },
-    {
         company: "Spring Health",
         position: "Data Science Intern",
         level: "Bachelors",
@@ -124,24 +115,6 @@ export const intern_data = [
         status: "OPEN",
         company_type: "Tech",
         links: ["https://boards.greenhouse.io/springhealth66/jobs/4315721005?gh_src=a8d055a25us"]
-    },
-    {
-        company: "Sony Interactive Entertainment",
-        position: "Data Science Intern",
-        level: "Bachelors/Masters",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Tech",
-        links: ["https://boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/4979014004"]
-    },
-    {
-        company: "Snowflake",
-        position: "Data Scientist Intern",
-        level: "Masters/PhD",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Tech",
-        links: ["https://careers.snowflake.com/us/en/job/6940957002/Data-Scientist-Intern"]
     },
     {
         company: "Delta Air Lines",
@@ -160,15 +133,6 @@ export const intern_data = [
         status: "OPEN",
         company_type: "Other",
         links: ["https://careers.ancestry.com/jobs/ba88d11f-15b1-4b8c-bfdd-26fd990a325c"]
-    },
-    {
-        company: "Databricks",
-        position: "Data Science Intern",
-        level: "Masters / PhD",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Tech",
-        links: ["https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2024-start-6866538002"]
     },
     {
         company: "Amazon",
@@ -228,24 +192,6 @@ export const intern_data = [
         links:[ "https://careers.hpe.com/us/en/job/1160954/Data-Science-Intern"]
     },
     {
-        company: "Millenium Management",
-        position: "Data Science Intern",
-        level: "Bachelors / Masters",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Finance",
-        links:[ "https://mlp.wd5.myworkdayjobs.com/en-US/mlpcareers/job/New-York-NY---399-Park-Avenue/Dats-Science-Summer-Intern_REQ-18801"]
-    },
-    {
-        company: "IBM",
-        position: "Data Science Intern",
-        level: "Any",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Tech",
-        links:[ "https://careers.ibm.com/job/18930693/data-scientist-intern-2024-remote/?codes=WEB_SEARCH_NA&_gl=1*b9qwpq*_ga*MTk1NjE3NDM3MS4xNjk0ODk2MzUw*_ga_FYECCCS21D*MTY5NDg5NjM0OS4xLjEuMTY5NDg5NjQwOC4wLjAuMA.."]
-    },
-    {
         company: "Mastercard",
         position: "Data Scientist Intern",
         level: "Bachelors",
@@ -271,33 +217,6 @@ export const intern_data = [
         status: "OPEN",
         company_type: "Other",
         links:[ "https://www.lockheedmartinjobs.com/job/bethesda/data-science-intern/694/54239930448"]
-    },
-    {
-        company: "84.51°",
-        position: "Data Scientist Intern",
-        level: "Any",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Other",
-        links:[ "https://boards.greenhouse.io/8451university/jobs/6864930002"]
-    },
-    {
-        company: "PWC",
-        position: "Data Science Intern",
-        level: "Bachelor",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Other",
-        links:[ "https://jobs.us.pwc.com/job/birmingham/products-and-tech-data-science-intern-summer-2024/932/52191612288"]
-    },
-    {
-        company: "General Motors",
-        position: "Data Analyst or Data Scientist",
-        level: "Bachelors",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Other",
-        links:[ "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2024-Summer-Intern---Digital-Transformation---Data-Analyst-or-Data-Scientist_JR-202313389?utm_source=Simplify&ref=Simplify"]
     },
     {
         company: "Red Ventures",
@@ -354,15 +273,6 @@ export const intern_data = [
         links:[ "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Undergraduate-Internship---Data-Science---Bachelors-_JR0247229?"]
     },
     {
-        company: "Chime",
-        position: "Data Analytics Intern",
-        level: "Bachelors/Masters",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Tech",
-        links:[ "https://careers.chime.com/browse-jobs/6858442002/data-analytics-intern/"]
-    },
-    {
         company: "Salesforce",
         position: "Data Science Intern",
         level: "Bachelors / Masters",
@@ -381,24 +291,6 @@ export const intern_data = [
         links:[ "https://boards.greenhouse.io/figma/jobs/4956894004"]
     },
     {
-        company: "Honeywell",
-        position: "Data Science Intern",
-        level: "Bachelors/Masters",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Other",
-        links:[ "https://careers.honeywell.com/us/en/job/HONEUSREQ413283EXTERNALENUS/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2024-Intern-Co-Ops-US-Person-Requir?"]
-    },
-    {
-        company: "Boeing",
-        position: "Information Technology And Data Analytics Intern",
-        level: "Any",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Other",
-        links:[ "https://jobs.boeing.com/job/everett/boeing-summer-2024-internship-program-paid-information-technology-it-and-data-analytics-da-and-digi/185/53049783376"]
-    },
-    {
         company: "Chamberlain Group",
         position: "Data Science - Advanced Analytics Intern",
         level: "Bachelors/Masters",
@@ -406,15 +298,6 @@ export const intern_data = [
         status: "OPEN",
         company_type: "Other",
         links:[ "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Data-Science---Advanced-Analytics--Summer-2024-_JR26218?"]
-    },
-    {
-        company: "ServiceNow",
-        position: "Data Informatics Analyst Intern",
-        level: "Bachelors",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Tech",
-        links:[ "https://careers.servicenow.com/careers/jobs/743999927694573EXT?lang=en-us"]
     },
     {
         company: "Stryker",
@@ -445,15 +328,6 @@ export const intern_data = [
     },
     {
         company: "Gilead Sciences",
-        position: "Clinical Data Science Intern",
-        level: "Bachelors",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Other",
-        links:[ "https://gilead.yello.co/job_boards/v42vD4vKxb3AkKvV93YsrQ"]
-    },
-    {
-        company: "Gilead Sciences",
         position: "Data Science, Global Decision Science and Insights Intern",
         level: "Masters / PhD",
         batch: "Summer 2024",
@@ -480,8 +354,7 @@ export const intern_data = [
         links: ["https://careers.walmart.com/us/jobs/WD1652790-2024-summer-intern-sr-data-scientist-sams-club",
         "https://careers.walmart.com/us/jobs/WD1652830-2024-summer-intern-data-science-sams-club",
         "https://careers.walmart.com/us/jobs/WD1652764-2024-summer-intern-decision-science-sams-club",
-        "https://careers.walmart.com/us/jobs/WD1452385-2024-summer-intern-data-scientist",
-        "https://careers.walmart.com/us/jobs/WD1559498-2024-summer-intern-sr-data-scientist"]
+        "https://careers.walmart.com/us/jobs/WD1452385-2024-summer-intern-data-scientist"]
     },
     {
         company: "Vectra AI",
@@ -493,31 +366,13 @@ export const intern_data = [
         links: ["https://www.vectra.ai/about/jobs?gh_jid=5330891"]
     },
     {
-        company: "Warner Bros. Discovery",
-        position: "Data Science Intern",
-        level: "Bachelors/Masters",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Other",
-        links: ["https://careers.wbd.com/global/en/job/WAMEGLOBALR000072946EXTERNALENGLOBAL/Data-Science-Intern-Summer-2024?utm_source=linksedin&utm_medium=phenom-feeds"]
-    },
-    {
-        company: "State Farm",
-        position: "Data Analytics Intern",
-        level: "Bachelors",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Other",
-        links: ["https://jobs.statefarm.com/main/jobs/33706?lang=en-us"]
-    },
-    {
         company: "Tesla",
         position: "Data Science Intern",
         level: "Any",
         batch: "Spring / Summer 2024",
         status: "OPEN",
         company_type: "Tech",
-        links: ["https://www.tesla.com/careers/search/job/internship-data-science-data-analytics-energy-engineering-spring-summer-2024-206514", "https://www.tesla.com/careers/search/job/internship-data-scientist-battery-winter-spring-2024--206975"]
+        links: ["https://www.tesla.com/careers/search/job/internship-data-science-data-analytics-energy-engineering-spring-summer-2024-206514"]
     },
     {
         company: "The Trade Desk",
@@ -547,15 +402,6 @@ export const intern_data = [
         links: ["https://careers.rivian.com/careers-home/jobs/12601?lang=en-us"]
     },
     {
-        company: "Procter & Gamble",
-        position: "Data Scientist Intern",
-        level: "Masters",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Other",
-        links: ["https://www.pgcareers.com/global/en/job/R000086647/Data-Scientist-Master%2527s-Degree-Internship"]
-    },
-    {
         company: "Carrier",
         position: "Data Science & Analytics Intern",
         level: "Bachelors/Masters",
@@ -563,15 +409,6 @@ export const intern_data = [
         status: "OPEN",
         company_type: "Other",
         links: ["https://jobs.carrier.com/job/-/-/29289/54395763248?"]
-    },
-    {
-        company: "Allstate",
-        position: "Data Science Intern",
-        level: "Any",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Other",
-        links: ["https://www.allstate.jobs/job/19015053/arity-data-science-internship-remote"]
     },
     {
         company: "Capital One",
@@ -590,15 +427,6 @@ export const intern_data = [
         status: "OPEN",
         company_type: "Other",
         links: ["https://careers.bcg.com/job/10020535/Data-Scientist-Internship-BCG-X"]
-    },
-    {
-        company: "Paypal",
-        position: " Data Analyst Intern",
-        level: "Bachelors/Masters",
-        batch: "Summer 2024",
-        status: "OPEN",
-        company_type: "Tech",
-        links: ["https://paypal.eightfold.ai/careers?query=globaluniversityinterndataanalytics&pid=274895397057&domain=paypal.com&sort_by=relevance"]
     },
     {
         company: "John Deere",
@@ -725,5 +553,185 @@ export const intern_data = [
         status: "CLOSED",
         company_type: "Tech",
         links: ["N/A"]
+    },
+    {
+        company: "Paypal",
+        position: " Data Analyst Intern",
+        level: "Bachelors/Masters",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Tech",
+        links: [""]
+    },
+    {
+        company: "Allstate",
+        position: "Data Science Intern",
+        level: "Any",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links: [""]
+    },
+    {
+        company: "Procter & Gamble",
+        position: "Data Scientist Intern",
+        level: "Masters",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links: [""]
+    },
+    {
+        company: "Warner Bros. Discovery",
+        position: "Data Science Intern",
+        level: "Bachelors/Masters",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links: [""]
+    },
+    {
+        company: "State Farm",
+        position: "Data Analytics Intern",
+        level: "Bachelors",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links: [""]
+    },
+    {
+        company: "Gilead Sciences",
+        position: "Clinical Data Science Intern",
+        level: "Bachelors",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links:[ ""]
+    },
+    {
+        company: "ServiceNow",
+        position: "Data Informatics Analyst Intern",
+        level: "Bachelors",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Tech",
+        links:[ ""]
+    },
+    {
+        company: "Boeing",
+        position: "Information Technology And Data Analytics Intern",
+        level: "Any",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links:[""]
+    },
+    {
+        company: "Honeywell",
+        position: "Data Science Intern",
+        level: "Bachelors/Masters",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links:[ ""]
+    },
+    {
+        company: "Chime",
+        position: "Data Analytics Intern",
+        level: "Bachelors/Masters",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Tech",
+        links:[ ""]
+    },
+    {
+        company: "General Motors",
+        position: "Data Analyst or Data Scientist",
+        level: "Bachelors",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links:[ ""]
+    },
+    {
+        company: "84.51°",
+        position: "Data Scientist Intern",
+        level: "Any",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links:[ ""]
+    },
+    {
+        company: "PWC",
+        position: "Data Science Intern",
+        level: "Bachelor",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links:[ ""]
+    },
+    {
+        company: "Millenium Management",
+        position: "Data Science Intern",
+        level: "Bachelors / Masters",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Finance",
+        links:[ ""]
+    },
+    {
+        company: "IBM",
+        position: "Data Science Intern",
+        level: "Any",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Tech",
+        links:[ ""]
+    },
+    {
+        company: "Databricks",
+        position: "Data Science Intern",
+        level: "Masters / PhD",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Tech",
+        links: [""]
+    },
+    {
+        company: "Snowflake",
+        position: "Data Scientist Intern",
+        level: "Masters/PhD",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Tech",
+        links: [""]
+    },
+    {
+        company: "Sony Interactive Entertainment",
+        position: "Data Science Intern",
+        level: "Bachelors/Masters",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Tech",
+        links: [""]
+    },
+    {
+        company: 'Yum! Brands',
+        position: "Data Science Intern",
+        level: "Any",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links: [""]
+    },
+    {
+        company: "Starbucks",
+        position: "Data Analyst Intern",
+        level: "Masters",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Other",
+        links: ['']
     }
 ]
