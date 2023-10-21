@@ -1,9 +1,9 @@
 import { NextPage } from 'next';
 import React from 'react';
 import { Header } from '../components/Header';
-
+import ReactGA from "react-ga4";
 const Resources: NextPage = () => {
-
+  ReactGA.initialize('G-8MN591VSC0');
   return (
     <main className="flex min-h-screen flex-col p-4 sm:p-8 lg:p-16 relative">
       <div className="text-center mb-3 relative overflow-visible">
@@ -57,13 +57,13 @@ const Resources: NextPage = () => {
         <div className='text-left'>
           <ul>
             <li className='py-5'>
-              <span className='inline border-b-4 border-sky-500'>Ace the Data Science Interview:</span> Paid but definitely worth it. Focused mostly on tech product-based DS roles.
+              <a href='https://www.amazon.com/Ace-Data-Science-Interview-Questions/dp/0578973839' target='_blank' className='inline border-b-4 border-sky-500'>Ace the Data Science Interview:</a> Paid but definitely worth it. Focused mostly on tech product-based DS roles.
             </li>
             <li className='py-5'>
-              <span className='inline border-b-4 border-sky-500'>Statistics Fundamentals:</span> <a href="https://www.youtube.com/watch?v=5koKb5B_YWo&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=11" target='_blank' className="text-indigo-400 hover:text-indigo-800 mr-5 px-5">StatQuest: Alternative Hypothesis</a>
+              <span className='inline border-b-4 border-sky-500'>Statistics Fundamentals:</span> <a href="https://www.youtube.com/watch?v=5koKb5B_YWo&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=11" target='_blank' className="text-indigo-400 hover:text-indigo-800 mr-5">StatQuest: Alternative Hypothesis</a>
             </li>
             <li>
-              <span className='inline border-b-4 border-sky-500'>ML Fundamentals:</span> <a href='https://www.youtube.com/watch?v=qcvAqAH60Yw&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=8' target='_blank' className="text-indigo-400 hover:text-indigo-800 mr-5 px-5">StatQuest: ROC and AUC in R</a>
+              <span className='inline border-b-4 border-sky-500'>ML Fundamentals:</span> <a href='https://www.youtube.com/watch?v=qcvAqAH60Yw&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=8' target='_blank' className="text-indigo-400 hover:text-indigo-800 mr-5">StatQuest: ROC and AUC in R</a>
             </li>
           </ul>
         </div>

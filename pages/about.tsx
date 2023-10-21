@@ -1,9 +1,11 @@
 import { NextPage } from 'next';
 import React from 'react';
 import { Header } from '../components/Header';
+import ReactGA from "react-ga4";
 
 const About: NextPage = () => {
 
+  ReactGA.initialize('G-8MN591VSC0');
   return (
     <main className="flex min-h-screen flex-col p-4 sm:p-8 lg:p-16 relative">
       <div className="text-center mb-3 relative overflow-visible">
