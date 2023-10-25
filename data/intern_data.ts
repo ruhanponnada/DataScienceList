@@ -1,12 +1,21 @@
 export const intern_data = [
     {
-        company: "Atlassian",
+        company: "Coinbase",
         position: "Data Science Intern",
-        level: "Masters",
+        level: "Bachelors",
         batch: "Summer 2024",
         status: "OPEN",
         company_type: "Tech",
-        links: ['https://www.atlassian.com/company/careers/details/10594']
+        links: ['https://www.coinbase.com/careers/positions/5448319?gh_jid=5448319&gh_src=20687b321us']
+    },
+    {
+        company: "Thermo Fisher Scientific",
+        position: "Data Science Intern",
+        level: "Bachelors / Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Other",
+        links: ['https://jobs.thermofisher.com/global/en/job/R-01208462/Data-Science-Intern?rx_ch=jobpost&rx_job=R-01208462&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20231025T024201Z&rx_vp=linkedindirectindex&utm_medium=post&utm_source=recruitics_linkedindirectindex&refId=34jd24&rx_viewer=01ff25106d7a11ee80f29d424f448be9ccee4ef42c3648aaa630400a7e6824d2']
     },
     {
         company: "Lyft",
@@ -732,6 +741,15 @@ export const intern_data = [
         batch: "Summer 2024",
         status: "CLOSED",
         company_type: "Other",
+        links: ['']
+    },
+    {
+        company: "Atlassian",
+        position: "Data Science Intern",
+        level: "Masters",
+        batch: "Summer 2024",
+        status: "CLOSED",
+        company_type: "Tech",
         links: ['']
     }
 ]
