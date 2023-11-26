@@ -1,5 +1,122 @@
 export const intern_data = [
     {
+        company: "NBCUniversal",
+        position: "Data Science Intern",
+        level: "Any",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ["https://jobs.smartrecruiters.com/NBCUniversal3/743999945743093-data-science-analytics-internships-summer-2024"]
+    },
+    {
+        company: "Google",
+        position: "Data Science Intern",
+        level: "Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ["https://www.google.com/about/careers/applications/jobs/results/133104361040421574-data-scientist-product-intern-ms-summer-2024?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN&skills=data"]
+    },
+    {
+        company: "Discord",
+        position: "Data Science Intern",
+        level: "Masters / PhD",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ["https://discord.com/jobs/7003727002", "https://discord.com/jobs/7003713002"]
+    },
+    {
+        company: "Meta",
+        position: "Data Science Intern",
+        level: "Bachelors / Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ["https://www.metacareers.com/v2/jobs/1045229423483651/"]
+    },
+    {
+        company: "Oracle",
+        position: "Data Science Intern",
+        level: "Any",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ['https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/212350?utm_medium=jobboard&utm_source=LinkedIn']
+    },
+    {
+        company: "Faire",
+        position: "Data Science Intern",
+        level: "Masters / PhD",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Other",
+        links: ['https://boards.greenhouse.io/faire/jobs/6683906002?gh_jid=6683906002']
+    },
+    {
+        company: "Johnson & Johnson",
+        position: "Data Science Co-op",
+        level: "Bachelors / Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Other",
+        links: ['https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=00001K0F&lang=en&src=JB-10280']
+    },
+    {
+        company: "Equifax",
+        position: "Data Science Intern",
+        level: "Bachelors",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ['https://careers.equifax.com/en/jobs/j00152457/data-analyst-summer-intern/?source=Applied_LinkedIn']
+    },
+    {
+        company: "Intuitive",
+        position: "Data Science Intern",
+        level: "Bachelors",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Other",
+        links: ['https://careers.intuitive.com/en/jobs/743999941924423/JOB5681/data-scientist-intern/?source=linkedin']
+    },
+    {
+        company: "Adobe",
+        position: "Data Science Intern",
+        level: "Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ['https://careers.adobe.com/us/en/job/R141236/2024-Intern-Data-Science', 'https://careers.adobe.com/us/en/job/R139279/2024-Intern-Data-Analyst', 'https://careers.adobe.com/us/en/job/R141478/2024-Intern-DEX-Data-Insights']
+    },
+    {
+        company: "Keysight",
+        position: "Data Science Intern",
+        level: "Bachelors",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ['https://careers-keysight.icims.com/jobs/13805/data-science-internship/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1200&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420']
+    },
+    {
+        company: "Paypal",
+        position: "Data Science Intern",
+        level: "Masters",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ['https://paypal.eightfold.ai/careers?Codes=W-LINKEDIN&domain=paypal.com&query=R0108102&sort_by=relevance']
+    },
+    {
+        company: "Autodesk",
+        position: "Data Science Intern",
+        level: "Bachelors",
+        batch: "Summer 2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ['https://autodesk.wd1.myworkdayjobs.com/en-US/uni/details/Intern--Data-Scientist_23WD73092-1?q=data&jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352']
+    },
+    {
         company: "Coinbase",
         position: "Data Science Intern",
         level: "Bachelors",
@@ -456,25 +573,7 @@ export const intern_data = [
         links: [""]
     },
     {
-        company: "Google",
-        position: "Data Science Intern",
-        level: "N/A",
-        batch: "Summer 2024",
-        status: "NOT OPEN YET",
-        company_type: "Tech",
-        links: [""]
-    },
-    {
         company: "Square",
-        position: "Data Science Intern",
-        level: "N/A",
-        batch: "Summer 2024",
-        status: "NOT OPEN YET",
-        company_type: "Tech",
-        links: [""]
-    },
-    {
-        company: "Meta",
         position: "Data Science Intern",
         level: "N/A",
         batch: "Summer 2024",
@@ -562,15 +661,6 @@ export const intern_data = [
         status: "CLOSED",
         company_type: "Tech",
         links: ["N/A"]
-    },
-    {
-        company: "Paypal",
-        position: " Data Analyst Intern",
-        level: "Bachelors/Masters",
-        batch: "Summer 2024",
-        status: "CLOSED",
-        company_type: "Tech",
-        links: [""]
     },
     {
         company: "Allstate",
