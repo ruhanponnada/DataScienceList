@@ -1,5 +1,14 @@
 export const new_grad_data = [
     {
+        company: "Salesforce",
+        position: "Associate, Decision Scientist",
+        level: "Bachelors / Masters",
+        batch: "2024",
+        status: "OPEN",
+        company_type: "Tech",
+        links: ["https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Associate--Decision-Scientist--New-Grad-_JR223511-1?source=LinkedIn_Jobs"]
+    },
+    {
         company: "Oscar Health",
         position: "Data Scientist 1, Risk Analytics",
         level: "Bachelors / Masters",
@@ -145,15 +154,6 @@ export const new_grad_data = [
     },
     {
         company: "Uber",
-        position: "Data Scientist",
-        level: "Any",
-        batch: "2024",
-        status: "NOT OPEN YET",
-        company_type: "Tech",
-        links: ["N/A"]
-    },
-    {
-        company: "Salesforce",
         position: "Data Scientist",
         level: "Any",
         batch: "2024",
